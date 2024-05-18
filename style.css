@@ -1,6 +1,6 @@
 body,html{
     overflow-x:hidden;
-    
+    scroll-behavior: smooth;
 }
 .img{
     height: 600px;
