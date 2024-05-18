@@ -23,6 +23,16 @@ body,html{
     width: 80px;
     border-radius: 50%;
  }
+ .gallery{
+    padding: unset;
+    margin: unset;
+ }
+ .gallery img{
+    height: 500px;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+ }
  .client p{
     margin: unset;
  }
